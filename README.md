@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gosu</h1>
 <h3 align="center">A passionate aspiring Data Scientist from India</h3>
 
-<img align=“right” alt=“Data” width = “400” src = “/Users/gosu00100/Downloads/LinkedIn background photo.png”
+<img align=“right” alt=“Data” width = “400” src = “https://github.com/Ankit-Khareshiya/Ankit-Khareshiya/blob/main/LinkedIn%20background%20photo.png”
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gosu&label=Profile%20views&color=0e75b6&style=flat" alt="gosu" /> </p>
 
