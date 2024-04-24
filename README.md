@@ -1,3 +1,4 @@
+![logo](https://github.com/Ankit-Khareshiya/Ankit-Khareshiya/blob/main/LinkedIn%20background%20photo.png)
 <h1 align="center">Hi 👋, I'm Gosu</h1>
 <h3 align="center">A passionate aspiring Data Scientist from India</h3>
 
