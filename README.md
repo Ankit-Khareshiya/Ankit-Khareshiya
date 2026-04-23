@@ -9,7 +9,7 @@ Whether it's optimising business operations or creating interactive dashboards, 
 You can find my projects here
 - 🏅 [NETFLIX-Dashboard](https://github.com/Ankit-Khareshiya/Analysis-of-NETFLIX-dataset)  
 - 🏅 [HR-Dashboard](https://github.com/Ankit-Khareshiya/Analysis-of-HR-dataset)  
-- 🏅 [Data-Warehouse](https://github.com/Ankit-Khareshiya/Data-Warehouse)
+- 🏅 [COVID 19 Dashboard](https://github.com/Ankit-Khareshiya/Analysis-of-COVID-19-dataset)
 
 ---
 
