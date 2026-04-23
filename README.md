@@ -8,7 +8,7 @@ Whether it's optimising business operations or creating interactive dashboards, 
 ### 🎓 My PROJECTS  
 You can find my projects here
 - 🏅 [CoC-Analytics](https://github.com/Ankit-Khareshiya/CoC-Analytics)  
-- 🏅 [HR-Dashboard](https://github.com/Ankit-Khareshiya/HR-Dashboard)  
+- 🏅 [HR-Dashboard](https://github.com/Ankit-Khareshiya/Analysis-of-HR-dataset)  
 - 🏅 [Data-Warehouse](https://github.com/Ankit-Khareshiya/Data-Warehouse)
 
 ---
